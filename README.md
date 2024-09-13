@@ -1,3 +1,4 @@
+https://github.com/user-attachments/assets/03e37faf-06ee-40e1-8cde-dcd82d43a7bc
 # Introduction to Artificial Intelligence (AI)
 
 Artificial Intelligence (AI) refers to the replication of human intelligence in machines designed to think and act like humans. AI systems utilize algorithms to analyze data, enabling them to learn from experiences, adapt to new information, and perform tasks that usually require human cognitive abilities. The fundamental components of AI include:
